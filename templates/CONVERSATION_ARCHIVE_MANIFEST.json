@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "role": "synthetic-management",
+  "tenure": "synthetic-term",
+  "entries": [
+    {
+      "session": "synthetic-session",
+      "file": "sessions/synthetic-session.md",
+      "sha256": "SHA256_OF_EXPORTED_BYTES",
+      "bytes": 0,
+      "scope": "available-active-branch",
+      "coverage": "PARTIAL_OR_UNKNOWN",
+      "source_platform": "ChatGPT",
+      "export_method": "manual-md",
+      "approval_reference": "HUMAN_DECISION_POINTER_REQUIRED",
+      "archived_at_utc": "RFC3339_TIMESTAMP_REQUIRED"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "private_archive": true,
+  "enabled": false,
+  "approved_roles": [
+    "management"
+  ],
+  "_comment": "SYNTHETIC example; Human must separately authorize, verify private destination and set enabled true. Do not commit real authorization records into public OSS."
+}
